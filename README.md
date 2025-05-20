@@ -2,8 +2,8 @@
 
 **🎯 Project Title:** Resume Screening System using NLP and Semantic Similarity  
 **🧠 Internship Domain:** Machine Learning / Natural Language Processing  
-**✍️ Author:** [Your Name]  
-**📅 Internship Period:** [Start Date] – [End Date]  
+**✍️ Author:** Vishruti Parekh
+**📅 Internship Period:** 12/05/2025 – [End Date]  
 
 ---
 
@@ -103,3 +103,4 @@ This document outlines the **day-wise progress report** for the entire model-bui
 
 ```txt
 PDF/Text Resume → Clean → Vectorize → Match with JD → Rank
+```
