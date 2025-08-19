@@ -3,7 +3,7 @@
 **🎯 Project Title:** Resume Screening System using NLP and Semantic Similarity  
 **🧠 Internship Domain:** Machine Learning / Natural Language Processing  
 **✍️ Author:** Vishruti Parekh
-**📅 Internship Period:** 12/05/2025 – [End Date]  
+**📅 Internship Period:** 12/05/2025 – 22/06/2025  
 
 ---
 
@@ -16,7 +16,7 @@ This document outlines the **day-wise progress report** for the entire model-bui
 
 ## 📌 Daily Log
 
-### 📍 **Day 1: Dataset Identification and Exploration**
+### 📍 **Week 1: Dataset Identification and Exploration**
 
 - Explored multiple public datasets for resumes (e.g., Kaggle’s Resume Dataset).
 - Selected a labeled dataset containing fields like `Category` and `Resume`.
@@ -25,7 +25,7 @@ This document outlines the **day-wise progress report** for the entire model-bui
 
 ---
 
-### 📍 **Day 2: Research on Resume Ranking and Similarity Models**
+### 📍 **Research on Resume Ranking and Similarity Models**
 
 - Conducted a literature review on automated resume screening systems.
 - Compared techniques: **TF-IDF**, **Word2Vec (GloVe)**, **BERT**.
@@ -34,7 +34,7 @@ This document outlines the **day-wise progress report** for the entire model-bui
 
 ---
 
-### 📍 **Day 3: Data Cleaning and Preprocessing**
+### 📍 **Week 2: Data Cleaning and Preprocessing**
 
 - Created a `clean_text()` function using **spaCy** to:
   - Tokenize and lemmatize
@@ -45,7 +45,7 @@ This document outlines the **day-wise progress report** for the entire model-bui
 
 ---
 
-### 📍 **Day 4: Text Extraction from PDF Resumes**
+### 📍 **Week 3: Text Extraction from PDF Resumes**
 
 - Integrated `pdfminer.six` and `PyMuPDF (fitz)` for PDF parsing.
 - Scripted batch PDF processing → extracted structured content.
@@ -54,7 +54,7 @@ This document outlines the **day-wise progress report** for the entire model-bui
 
 ---
 
-### 📍 **Day 5: Updating and Structuring the Dataset**
+### 📍 **Week 4: Updating and Structuring the Dataset**
 
 - Merged extracted resumes with the original dataset.
 - Created `final_resumes.csv` with:
@@ -63,7 +63,7 @@ This document outlines the **day-wise progress report** for the entire model-bui
 
 ---
 
-### 📍 **Day 6: Implementing TF-IDF and BERT-based Embeddings**
+### 📍 **Week 5: Implementing TF-IDF and BERT-based Embeddings**
 
 - **TF-IDF:**
   - Applied `TfidfVectorizer` (1000 features).
@@ -76,7 +76,7 @@ This document outlines the **day-wise progress report** for the entire model-bui
 
 ---
 
-### 📍 **Day 7: Word2Vec Embeddings and Model Comparison**
+### 📍 **Week 6: Word2Vec Embeddings and Model Comparison**
 
 - Loaded pre-trained **GloVe (100D)** via `gensim`.
 - Created document-level vectors via averaged word embeddings.
@@ -92,7 +92,7 @@ This document outlines the **day-wise progress report** for the entire model-bui
 
 ---
 
-### 📍 **Day 8: Finalizing and Saving the Model**
+### 📍 **Finalizing and Saving the Model**
 
 - Finalized **BERT** for deployment due to superior performance.
 - Saved the following:
