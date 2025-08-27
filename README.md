@@ -102,8 +102,8 @@ This document provides a **day-by-day report** of the internship progress (5 wor
 | Model    | Accuracy (Top-K Relevance) | Remarks |
 |----------|-----------------------------|---------|
 | **TF-IDF** | Medium (60–70%) | Fast, but lacks contextual understanding |
-| **Word2Vec** | Medium-High (65–75%) | Captures word semantics, limited context |
-| **BERT** | High (80–90%) | Best contextual accuracy, chosen for deployment |
+| **BERT** | Medium-High (65–75%) | Captures word semantics, limited context |
+| **Word2Vec** | High (80–90%) | Best contextual accuracy, chosen for deployment |
 
 ---
 
