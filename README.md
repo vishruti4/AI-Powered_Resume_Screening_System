@@ -1,20 +1,20 @@
 # 📅 Internship Daily Report – AI-Powered Resume Screening System
 
-## 🎯 Project Title  
+## Project Title  
 Resume Screening System using NLP and Semantic Similarity  
 
-## 🧠 Internship Domain  
+## Internship Domain  
 Machine Learning / Natural Language Processing  
 
-## ✍️ Author  
+## Author  
 **Vishruti Parekh**  
 
-## 📅 Internship Period  
+## Internship Period  
 **12/05/2025 – 22/06/2025**  
 
 ---
 
-## ✅ Overview  
+## Overview  
 The objective of this internship project is to build an **AI-powered Resume Ranking System** that automatically matches resumes to job descriptions using NLP techniques such as **TF-IDF**, **Word2Vec**, and **BERT-based embeddings**.  
 
 This document provides a **day-by-day report** of the internship progress (5 working days per week).  
